@@ -1,18 +1,16 @@
 
-# Razzles Run
+# Razzles Run (2D-Endless Runner)
 
-My first ever project in Unity, remastered 6 months later.
+The first game I made part of a school project, made in Unity using C#
 
+## Getting Started
 
-## How to play
+Just install the latest release and run the .exe file to play the game
 
-Just Download the latest release and run the .exe. Note: Windows only.
+## Built With
 
+I used Unity for the game engine and Visual Studio to write my code
 
-## Run in Unity
-Click on the blue "<>Code" dropdown and click "download zip".  
-Unzip the folder and open Unity, click add and locate the unzipped folder.  
-It should open now.
-## Support
+- [Unity](https://unity.com)
+- [Visual Studio](https://visualstudio.microsoft.com)
 
-For support, create an issue or contact me via email: ecl.gamedev@gmail.com
